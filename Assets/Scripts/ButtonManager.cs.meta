@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2d0381498f895a44587c4c829b34e25b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - processor: {instanceID: 0}
+  - pc: {fileID: 2356519851842430599, guid: caba5db5f567a844d917569f3e560541, type: 3}
+  - endTurnButton: {fileID: 8498830960386175612, guid: cec7988338b7aed478c647ae5bc68d17,
+      type: 3}
+  - attackButton: {fileID: 3893386612893302154, guid: fa60266c307215c4fa0cbe33b6789eb7,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
